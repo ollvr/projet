@@ -1,0 +1,44 @@
+body{ 
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+header{ 
+    width: 100%;
+    text-align: center;
+    height: 20px;
+}
+
+header h4 { 
+    font-size: large;
+    color: cadetblue;
+}
+
+aside{ 
+    float:left;
+    width: 20%;
+    height: 100%;
+}
+
+
+aside ul { 
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 95px;
+}
+
+
+aside ul li button { 
+    border:none;
+    color: rebeccapurple;
+    background: black;
+}
+
+
+main { 
+    width: 70%;
+    height: 100%;
+    float: right;
+}

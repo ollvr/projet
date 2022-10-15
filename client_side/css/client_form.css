@@ -1,0 +1,47 @@
+body{ 
+    background-color: #0a0e1b;
+}
+h3{ 
+    color: crimson;
+    text-align: center;
+}
+
+form td label { 
+    color: #019984de;
+    font-size: large;
+}
+
+form td button{ 
+    border: none;
+    color: indigo;
+    background: scroll;
+    margin-top: 17px;
+}
+
+form td input { 
+    width: 299px;
+    height: 19px;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 11px;
+    color: black;
+    
+}
+
+
+#type_de_service{ 
+ 
+    margin-bottom: 11px;
+}
+
+
+.a_conatiner{ 
+    text-align: center;
+}
+
+
+.a_conatiner a { 
+    color:crimson;
+    font-size:large;
+    text-decoration: none;
+}
