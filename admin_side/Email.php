@@ -120,10 +120,7 @@ if(($req->execute()) && ($req2->execute()))
       $mail->SMTPAuth = true;
 
       
-      $mail->Username = 'omarobouhawelo15@gmail.com';
-
-      
-      $mail->Password = 'foyxsdqvocbzbyxn';
+  
 
      
       $mail->setFrom("$admin_email",'SIT');
